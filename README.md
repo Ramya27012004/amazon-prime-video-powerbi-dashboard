@@ -53,7 +53,7 @@ The dataset includes:
 
 (Add your screenshot here)
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]power bi.png)
 
 ---
 
